@@ -1,2 +1,2 @@
-# ML-Zoomcamp
-Homework results for ML Zoomcamp
+# ML-Zoomcamp 2024
+Homework results for ML Zoomcamp 2024
